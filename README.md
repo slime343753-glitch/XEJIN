@@ -1,4 +1,4 @@
-<h1 align="center">🩸 💋제진𝑋𝐸𝐽𝐼𝑁 🩸</h1>
+<h1 align="center">🩸 𝑋𝐸𝐽𝐼𝑁 🩸</h1>
 <p align="center">
   <img src="https://files.catbox.moe/9laft3.jpg" alt="XEJIN" width="320"/>
 </p>

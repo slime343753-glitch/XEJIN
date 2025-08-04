@@ -35,4 +35,5 @@ pkg install yarn -y
 git clone https://github.com/heukjin/XEJIN
 cd XEJIN
 npm install
+chmod +x start.sh
 ./start.sh

@@ -35,5 +35,7 @@ pkg install yarn -y
 git clone https://github.com/heukjin/XEJIN
 cd XEJIN
 npm install
+npm install dotenv
 chmod +x start.sh
 ./start.sh
+## 👑NOW SCAN QR AND PAIR BOT WITH YOUR WHATSAPP NUMBER ADD TYPE .Xejin

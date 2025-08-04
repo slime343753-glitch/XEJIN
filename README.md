@@ -38,4 +38,6 @@ npm install
 npm install dotenv
 chmod +x start.sh
 ./start.sh
-## 👑NOW SCAN QR AND PAIR BOT WITH YOUR WHATSAPP NUMBER ADD TYPE .Xejin
+
+## NEXT STEP 💗
+- SCAN QR AND PAIR BOT WITH YOUR WHATSAPP NUMBER ADD TYPE .Xejin

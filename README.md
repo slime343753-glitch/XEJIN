@@ -16,7 +16,7 @@
 ## 🔮 Features
 
 - 💬 WhatsApp MD Support via Baileys
-- 📥 Downloader (YT, TikTok, Insta, etc.)
+- 📥 Downloader (youtube,
 - 🎮 Fun Games (TicTacToe, Truth/Dare)
 - 🎭 ChatGPT & AI Features
 - 🔥 NSFW (Toggle by Owner)
@@ -39,5 +39,6 @@ npm install dotenv
 chmod +x start.sh
 ./start.sh
 
-## NEXT STEP 💗
+```
+### NEXT STEP 💗
 - SCAN QR AND PAIR BOT WITH YOUR WHATSAPP NUMBER ADD TYPE .Xejin

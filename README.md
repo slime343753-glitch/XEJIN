@@ -33,4 +33,4 @@ git clone https://github.com/heukjin/XEJIN
 cd XEJIN
 yarn install
 cp config.sample.js config.js
-node index.js
+./start.sh

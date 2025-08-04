@@ -1,37 +1,36 @@
-<h1 align="center">❤️ XEJIN ❤️</h1>
-
+<h1 Bot
 <p align="center">
-  <img src="https://files.catbox.moe/9laft3.jpg" alt="XEJIN" width="300"/>
+  <img src="https://files.catbox.moe/9laft3.jpg" alt="XEJIN" width="320"/>
 </p>
 
 <p align="center">
-  <b>⚔️ A Powerful, Stylish & Clean WhatsApp Multi-Device Bot ⚔️</b><br>
-  <sub>Made with 💖 by <strong>⛧ HEUKJIN ⛧</strong></sub>
+  <b>⚔️ A Dark, Powerful & Stylish WhatsApp Multi-Device Bot ⚔️</b><br>
+  <sub>Created & Managed by <strong>⛧ 𝐇𝐄𝐔𝐊𝐉𝐈𝐍 ⛧</strong></sub>
 </p>
 
-🚀## 🚀 Getting Started
+---
 
-> 💡 Before installing, please:
+## 🔮 Features
 
-- ⭐ Star this repo → [Star Now](https://github.com/heukjin/XEJIN/stargazers)
-- 🍴 Fork it to your GitHub → [Fork Now](https://github.com/heukjcom/heukjin/XEJIN/fork) 🔮 --Thenes
+- 💬 WhatsApp Multi-Device Support (Baileys)
+- 📥 Media Downloader Commands (YT, Insta, Twitter, etc.)
+- 🎮 Fun & Game Commands (TicTacToe, Truth/Dare, etc.)
+- 🎭 AI & GPT Chat Integration
+- 🔥 NSFW Toggle Support
+- 🔒 Group Moderation (antilink, autoban, protect, etc.)
+- 💌 Auto Welcome/Leave with Image
+- 🎨 Themed Menus (XEJIN)
 
-- 💬 WhatsApp Multi-Device support via Baileys
-- 📥 Media Downloaders (YouTube, IG, etc.)
-- 🎮 Mini Games (TicTacToe, Truth/Dare, etc.)
-- 🤖 AI Chat with GPT integration
-- 🎭 Reactions & Anime Plugins
-- 🖼 Custom welcome/goodbye cards
-- 🔒 Group protection (antilink, antibot, mute, etc.)
-- 💌 Beautiful themed menualign="center">✨ the steps below 👇
-- change your number in env file 🎀
-  
-### 📦 Termux Installation
+---
+
+## 📦 Installation (Termux)
 
 ```bash
 pkg update && pkg upgrade
-pkg install nodejs git ffmpeg yarn -y
-git clone https://github.com/heukjin/XEJIN
+pkg install nodejs git ffmpeg
+pkg install yarn -y
+git clffmpegtps://github.com/heukjin/XEJIN
 cd XEJIN
 yarn install
 cp config.sample.js config.js
+./start.sh

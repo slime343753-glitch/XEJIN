@@ -19,7 +19,7 @@
 - 🔥 NSFW Toggle Support
 - 🔒 Group Moderation (antilink, autoban, protect, etc.)
 - 💌 Auto Welcome/Leave with Image
-- 🎨 Themed Menus (XEJIN Gothic Layout)
+- 🎨 Themed Menus (XEJIN)
 
 ---
 

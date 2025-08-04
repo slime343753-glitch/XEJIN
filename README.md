@@ -1,42 +1,38 @@
+<h1 align="center">🩸 𝑋𝐸𝐽𝐼𝑁 🩸</h1>
 <p align="center">
-  <img src="https://files.catbox.moe/9laft3.jpg" width="250" alt="XEJIN-MD Logo"/>
-</p>
-
-<h1 align="center">🕯️ XEJIN-MD - WhatsApp Multi-Device Bot</h1>
-
-<p align="center">
-  <b>A powerful, themed WhatsApp MD Bot</b><br>
-  🩸 Built by <a href="https://www.instagram.com/heukjin143" target="_blank">HEUKJIN</a><br>
-  ✨ Styled with a gothic + kawaii aesthetic
+  <img src="https://files.catbox.moe/9laft3.jpg" alt="XEJIN Banner" width="300"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/heukjin/XEJIN-MD/stargazers"><img src="https://img.shields.io/github/stars/heukjin/XEJIN-MD?color=FF6AC2&style=for-the-badge"></a>
-  <a href="https://github.com/heukjin/XEJIN-MD/network/members"><img src="https://img.shields.io/github/forks/heukjin/XEJIN-MD?color=FF90B3&style=for-the-badge"></a>
+  <b>⚔️ A Dark, Powerful & Stylish WhatsApp Multi-Device Bot ⚔️</b><br>
+  <sub>Created by <strong>⛧ 𝐇𝐄𝐔𝐊𝐉𝐈𝐍 ⛧</strong></sub><br><br>
+
+  <a href="https://github.com/heukjin/XEJIN/stargazers"><img src="https://img.shields.io/github/stars/heukjin/XEJIN?style=flat-square&color=red" alt="Stars"/></a>
+  <a href="https://github.com/heukjin/XEJIN/fork"><img src="https://img.shields.io/github/forks/heukjin/XEJIN?style=flat-square&color=purple" alt="Forks"/></a>
 </p>
 
 ---
 
-## 💫 Features
+## 🔮 Features
 
-- 🧠 AI Chat & Commands (ChatGPT / Gemini)
-- 🎭 Reaction Plugins (.slap, .hug, .bully, etc)
-- 🧷 Group Moderation (.antilink, .ban, .warn)
-- 📥 Downloader (.play, .ytmp3, .ytmp4)
-- 🎮 Fun & Games (.tictactoe, .roast, .findwife)
-- 🌐 Public / Private Mode
-- 🎀 Cute and dark styled menus
-- ⚙️ Easy to customize
+- 💬 WhatsApp MD Support via Baileys
+- 📥 Downloader (YT, TikTok, Insta, etc.)
+- 🎮 Fun Games (TicTacToe, Truth/Dare)
+- 🎭 ChatGPT & AI Features
+- 🔥 NSFW (Toggle by Owner)
+- 🛡 Group Protection (antilink, antoxic, etc.)
+- 🧸 Welcome/Leave with Cards
+- 🍓 Themed Menus (XEJIN aesthetic style)
 
-DONT FORGET TO CHANGE YOUR NUMBER IN ENV FILE🍓
 ---
 
-## 📦 Setup (via Termux)
+## 📦 Install on Termux
 
 ```bash
 pkg update && pkg upgrade
-pkg install git nodejs ffmpeg imagemagick
-git clone https://github.com/heukjin/XEJIN-MD
-cd XEJIN-MD
+pkg install nodejs git ffmpeg
+pkg install yarn -y
+git clone https://github.com/heukjin/XEJIN
+cd XEJIN
 npm install
 ./start.sh

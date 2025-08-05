@@ -1,1 +1,56 @@
-function a0_0x12e9(){const _0x1b53ce=['1503370fwLmaj','⛧\x20𝐘𝐨𝐮\x20𝐚𝐫𝐞\x20𝐛𝐚𝐧𝐢𝐬𝐡𝐞𝐝\x20𝐟𝐫𝐨𝐦\x20𝐭𝐡𝐢𝐬\x20𝐫𝐞𝐚𝐥𝐦\x20𝐨𝐟\x20𝐬𝐡𝐚𝐝𝐨𝐰𝐬\x20⛧','socialMedia','25683biOsKG','1095165FHBRXT','https://www.instagram.com/heukjin143','instagram','\x0a☠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝:\x20','112228AiiwHz','\x0a⚰\x20𝐆𝐢𝐭𝐇𝐮𝐛:\x20','owner','github','6593081pfjNfB','⛧\x20𝐇𝐄𝐔𝐊𝐉𝐈𝐍\x20⛧','discord','map','3792wHAScL','2210pFntcw','𝐃𝐢𝐬𝐜𝐨𝐫𝐝:\x20Heukjin#6666','27GTAFcB','⚰\x20𝐓𝐡𝐞\x20𝐝𝐚𝐫𝐤𝐧𝐞𝐬𝐬\x20𝐫𝐞𝐣𝐞𝐜𝐭𝐞𝐝\x20𝐲𝐨𝐮𝐫\x20𝐩𝐥𝐞𝐚...','number','⛧\x20𝐗𝐄𝐉𝐈𝐍\x20𝐓𝐇𝐄\x20𝐃𝐀𝐌𝐍𝐄𝐃\x20⛧','⛧\x20𝐈\x20𝐝𝐨\x20𝐧𝐨𝐭\x20𝐛𝐞𝐥𝐨𝐧𝐠\x20𝐡𝐞𝐫𝐞...\x20𝐬𝐢𝐥𝐞𝐧𝐜𝐞\x20𝐜𝐚𝐥𝐥𝐬,\x20𝐚𝐧𝐝\x20𝐈\x20𝐚𝐧𝐬𝐰𝐞𝐫\x20⛧','replace','488UdfYpE','⛧\x20𝐓𝐡𝐞\x20𝐚𝐛𝐲𝐬𝐬\x20𝐢𝐬\x20𝐮𝐧𝐝𝐞𝐫\x20𝐫𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧...\x20⛧','4TwSdQg','83242dLwHvU'];a0_0x12e9=function(){return _0x1b53ce;};return a0_0x12e9();}const a0_0x5251c1=a0_0x3ef8;(function(_0x52a8d0,_0x18ff72){const _0x562580=a0_0x3ef8,_0x4805f6=_0x52a8d0();while(!![]){try{const _0x5efc8f=parseInt(_0x562580(0x122))/0x1*(-parseInt(_0x562580(0x13e))/0x2)+parseInt(_0x562580(0x136))/0x3*(parseInt(_0x562580(0x12b))/0x4)+-parseInt(_0x562580(0x134))/0x5*(parseInt(_0x562580(0x133))/0x6)+-parseInt(_0x562580(0x126))/0x7*(parseInt(_0x562580(0x13c))/0x8)+parseInt(_0x562580(0x127))/0x9+-parseInt(_0x562580(0x123))/0xa+parseInt(_0x562580(0x12f))/0xb;if(_0x5efc8f===_0x18ff72)break;else _0x4805f6['push'](_0x4805f6['shift']());}catch(_0x12da5e){_0x4805f6['push'](_0x4805f6['shift']());}}}(a0_0x12e9,0x257fb));function a0_0x3ef8(_0x66b7d1,_0x1f7414){const _0x12e9c0=a0_0x12e9();return a0_0x3ef8=function(_0x3ef8f1,_0xb7c80e){_0x3ef8f1=_0x3ef8f1-0x122;let _0x368d2f=_0x12e9c0[_0x3ef8f1];return _0x368d2f;},a0_0x3ef8(_0x66b7d1,_0x1f7414);}const darkConfig={'owners':[{'name':a0_0x5251c1(0x130),'number':'919643538305','isPrimary':!![],'socials':{'instagram':'https://www.instagram.com/heukjin143','discord':a0_0x5251c1(0x135)}}],'prefix':['⛧','.','!','#','/'],'socialMedia':{'instagram':a0_0x5251c1(0x128),'discord':a0_0x5251c1(0x135),'github':'https://github.com/xejin-bot'},'name':a0_0x5251c1(0x139),'version':'𝐕𝐞𝐫𝐬𝐢𝐨𝐧\x20𝟔𝟔𝟔.𝟔𝟔','description':a0_0x5251c1(0x13a)};darkConfig['messages']={'owner':'⛧\x20𝐓𝐡𝐞\x20𝐯𝐨𝐢𝐜𝐞𝐬\x20𝐰𝐡𝐢𝐬𝐩𝐞𝐫...\x20𝐨𝐧𝐥𝐲\x20𝐦𝐲\x20𝐜𝐫𝐞𝐚𝐭𝐨𝐫\x20𝐦𝐚𝐲\x20𝐜𝐨𝐦𝐦𝐚𝐧𝐝\x20⛧','error':a0_0x5251c1(0x137),'banned':a0_0x5251c1(0x124),'socials':'\x0a⛧\x20𝐃𝐀𝐑𝐊\x20𝐏𝐎𝐑𝐓𝐀𝐋𝐒\x20⛧\x0a⚰\x20𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦:\x20'+darkConfig['socialMedia'][a0_0x5251c1(0x129)]+a0_0x5251c1(0x12a)+darkConfig[a0_0x5251c1(0x125)][a0_0x5251c1(0x131)]+a0_0x5251c1(0x12c)+darkConfig[a0_0x5251c1(0x125)][a0_0x5251c1(0x12e)]+'\x0a\x20\x20','maintenance':a0_0x5251c1(0x13d),'cooldown':'⚰\x20𝐓𝐡𝐞\x20𝐯𝐨𝐢𝐝\x20𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐬\x20𝐩𝐚𝐭𝐢𝐞𝐧𝐜𝐞...\x20𝐰𝐚𝐢𝐭\x20{time}𝐬'},darkConfig[a0_0x5251c1(0x12d)]=darkConfig['owners'][a0_0x5251c1(0x132)](_0x3f0332=>_0x3f0332[a0_0x5251c1(0x138)][a0_0x5251c1(0x13b)](/\D/g,''));export default darkConfig;
+// ⛧▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰⛧
+// ⛧ 𝐃𝐀𝐑𝐊 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍 𝐅𝐎𝐑 𝐗𝐄𝐉𝐈𝐍 ⛧
+// ⛧▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰⛧
+
+const darkConfig = {
+  // ⛧ 𝐎𝐖𝐍𝐄𝐑 𝐂𝐎𝐍𝐅𝐈𝐆
+  owners: [
+  {
+    "name": "⛧ 𝐇𝐄𝐔𝐊𝐉𝐈𝐍 ⛧",
+    "number": "919643538305",
+    "isPrimary": true,
+    "socials": {
+      "instagram": "https://www.instagram.com/heukjin143",
+      "discord": "𝐃𝐢𝐬𝐜𝐨𝐫𝐝: Heukjin#6666"
+    }
+  }
+],
+
+  // ⛧ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐏𝐑𝐄𝐅𝐈𝐗𝐄𝐒
+  prefix: ["⛧",".","!","#","/"],
+  
+  // ⛧ 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀
+  socialMedia: {
+    instagram: "https://www.instagram.com/heukjin143",
+    discord: "𝐃𝐢𝐬𝐜𝐨𝐫𝐝: Heukjin#6666",
+    github: "https://github.com/xejin-bot"
+  },
+
+  // ⛧ 𝐁𝐎𝐓 𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘
+  name: "⛧ 𝐗𝐄𝐉𝐈𝐍 𝐓𝐇𝐄 𝐃𝐀𝐌𝐍𝐄𝐃 ⛧",
+  version: "𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝟔𝟔𝟔.𝟔𝟔",
+  description: "⛧ 𝐈 𝐝𝐨 𝐧𝐨𝐭 𝐛𝐞𝐥𝐨𝐧𝐠 𝐡𝐞𝐫𝐞... 𝐬𝐢𝐥𝐞𝐧𝐜𝐞 𝐜𝐚𝐥𝐥𝐬, 𝐚𝐧𝐝 𝐈 𝐚𝐧𝐬𝐰𝐞𝐫 ⛧"
+};
+
+// ⛧ 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐂𝐎𝐍𝐅𝐈𝐆 (Defined AFTER socialMedia)
+darkConfig.messages = {
+  owner: "⛧ 𝐓𝐡𝐞 𝐯𝐨𝐢𝐜𝐞𝐬 𝐰𝐡𝐢𝐬𝐩𝐞𝐫... 𝐨𝐧𝐥𝐲 𝐦𝐲 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐦𝐚𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 ⛧",
+  error: "⚰ 𝐓𝐡𝐞 𝐝𝐚𝐫𝐤𝐧𝐞𝐬𝐬 𝐫𝐞𝐣𝐞𝐜𝐭𝐞𝐝 𝐲𝐨𝐮𝐫 𝐩𝐥𝐞𝐚...",
+  banned: "⛧ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐛𝐚𝐧𝐢𝐬𝐡𝐞𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐢𝐬 𝐫𝐞𝐚𝐥𝐦 𝐨𝐟 𝐬𝐡𝐚𝐝𝐨𝐰𝐬 ⛧",
+  
+  socials: `
+⛧ 𝐃𝐀𝐑𝐊 𝐏𝐎𝐑𝐓𝐀𝐋𝐒 ⛧
+⚰ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: ${darkConfig.socialMedia.instagram}
+☠ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝: ${darkConfig.socialMedia.discord}
+⚰ 𝐆𝐢𝐭𝐇𝐮𝐛: ${darkConfig.socialMedia.github}
+  `,
+  
+  maintenance: "⛧ 𝐓𝐡𝐞 𝐚𝐛𝐲𝐬𝐬 𝐢𝐬 𝐮𝐧𝐝𝐞𝐫 𝐫𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧... ⛧",
+  cooldown: "⚰ 𝐓𝐡𝐞 𝐯𝐨𝐢𝐝 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐬 𝐩𝐚𝐭𝐢𝐞𝐧𝐜𝐞... 𝐰𝐚𝐢𝐭 {time}𝐬"
+};
+
+// ⛧ 𝐁𝐀𝐂𝐊𝐖𝐀𝐑𝐃 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐈𝐓𝐘
+darkConfig.owner = darkConfig.owners.map(o => o.number.replace(/\D/g, ''));
+
+// ⛧ 𝐄𝐗𝐏𝐎𝐑𝐓 𝐓𝐇𝐄 𝐃𝐀𝐑𝐊𝐍𝐄𝐒𝐒
+export default darkConfig;

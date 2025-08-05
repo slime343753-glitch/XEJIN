@@ -25,7 +25,7 @@
 - 🍓 Themed Menus (XEJIN aesthetic style)
 
 ---
-- 🕊️DONT FORGET TO CHANGE YOUR NUMBER IN ENV FILE
+- 🕊️DONT FORGET TO CHANGE YOUR NUMBER IN config.js FILE
 ## 📦 Install on Termux
 
 ```bash

@@ -1,0 +1,40 @@
+{
+  "name": "jungkook-md",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@bochilteam/scraper": "^5.0.1",
+    "@distube/ytdl-core": "^4.16.12",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "api-dylux": "^1.8.5",
+    "axios": "^1.11.0",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "chokidar": "^3.6.0",
+    "figlet": "^1.8.2",
+    "file-type": "^21.0.0",
+    "form-data": "^4.0.3",
+    "google-tts-api": "^2.0.2",
+    "gradient-string": "^3.0.0",
+    "instagram-url-direct": "^2.0.7",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.1.0",
+    "mime-types": "^3.0.1",
+    "moment-timezone": "^0.6.0",
+    "mumaker": "^2.0.0",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
+    "pino": "^9.7.0",
+    "pino-pretty": "^13.1.1",
+    "play-dl": "^1.9.7",
+    "pureimage": "^0.4.18",
+    "qrcode-terminal": "^0.12.0",
+    "yt-dlp-wrap": "^2.3.12",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
+  }
+}
